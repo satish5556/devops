@@ -11,3 +11,5 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 - Docker &
 - Kubernetes
 https://github.com/yankils/Simple-DevOps-Project.git
+
+https://github.com/ValaxyTech/hello-world.git
